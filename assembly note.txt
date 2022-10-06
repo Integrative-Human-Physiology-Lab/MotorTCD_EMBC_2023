@@ -1,0 +1,42 @@
+Motor TCD assembly
+
+1. 	Remove all supports and raft from the print, it is important to ensure that all parts are free
+	from excessive material especially the friction surfaces to ensure smooth movement of the device
+
+2. 	The motor racks consists of 2 components, a hollow square at the front to attach to the strap and 
+	move the probe around a rectangular box to hold the motor
+
+3. 	There are 4 open holes on the rectangular box of motor rack: 1 at the back and 1 on the side for
+	motor wires, 2 at the front to connect the faceplate and innerplate
+
+4. 	With thin bar facing upwards, slide the headplate into through the upper hole on the front face
+	of motor rack 
+
+5. 	Push the headplate as far back into the motor rack as possible 
+
+6. 	Tilt the faceplate at an angle where the thin bar is elevated as further away from the surface of 
+	motor rack as possible 
+
+7. 	Align the hollow square of the motor plate with the thin bar of faceplate
+
+8. 	Slide the inner plate underneath the thin bar at and angle, ensuring that the bar is still align 
+	with the hollow square, then, pushes the end of the bar into the square
+   	
+	*Note: it is imporant that the small arm of the bar is located in between the closed hollow square 
+	and open hollow square)
+   	
+	(An easier techinque is to place the motor plate perpendicular to the end of the thin bar, let the 
+	thin bar touches the upper surface then rotate the motor plate slowly underneath the thin bar allowing
+	the end of the bar to go throug the hollow square
+
+9. 	After the open end of the bar has gone trough the closed hollow square, push the inner plate foward 
+	the front face while also applying downward pressure so the motor plate lays flat onto the motor rack
+
+10. 	A 'click' sound should be hear when the motor plate snaps into place
+
+11. 	Ensure that all the movement are smooth (up and down movement along the motor plate of the faceplate and
+	side movement of motor plate inside the motor rack)
+
+12. 	If the movement is not smooth, remove the parts and smoothen all friction surface then repeat from step 4
+
+13. 	If all movements are smooth, close the lid of motor rack to complete the assembly (move rotation may be needed to put the lid into place)
