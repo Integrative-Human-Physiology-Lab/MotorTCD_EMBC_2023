@@ -6,14 +6,14 @@ The project runs on Arduino Uno and controlled by joystick module available for 
 # **GETTING STARTED**
 **1. Order the Off-The-Shelf Components:**
 
-  Order the components as listed in the [Bill of Material](https://github.com/Pradeshi/MOTORTCD/blob/main/Documentation/BOM%206.xlsx) for the project.
+  Order the components as listed in the [Bill of Material](https://github.com/Pradeshi/MotorTCD-1/blob/main/Documentation/BOM.xlsx) for the project.
 
 **2. Print the 3D-printable files:**
 
-Print the Faceplate, Motor Rack A and B and Motor Rack Cover as listed in the [Print_Files](https://github.com/Pradeshi/MOTORTCD/tree/main/Design%20Files/Print%20Files).
+Print the STL file as shown in the [Print_Files](https://github.com/Pradeshi/MotorTCD-1/tree/main/Print_Files).
 
 **3. Start the Assembly:**
-The [Assembly Guide](https://github.com/Pradeshi/MOTORTCD/tree/main/Design%20Files/Print%20Files) shows you step by step process to assemble and wire the entire project with pictures. The entire assembly process is break down into following steps:
+The [Assembly Guide](https://github.com/Pradeshi/MotorTCD-1/blob/main/Documentation/assembly%20guide.pdf) shows you step by step process to assemble and wire the entire project with pictures. The entire assembly process is break down into following steps:
 1. Assembly of 3D-printed components
 2. Assembly of power components
 3. Assembly of motor components
@@ -24,10 +24,12 @@ The [Assembly Guide](https://github.com/Pradeshi/MOTORTCD/tree/main/Design%20Fil
 This step requires you to have all the components as listed in the Bill of Materials for our project.
 
 **4. Upload the code:**
-Connect the Arduino Uno to your computer and upload the [Arduino Code](https://github.com/Pradeshi/MOTORTCD/tree/main/Design%20Files/Print%20Files) available in our github.
+Connect the Arduino Uno to your computer and upload the [Arduino Code](https://github.com/Pradeshi/MotorTCD-1/blob/main/Arduino%20Code/motortcd.ino) available in our github.
 
 **5. Run the test**
 Clamp the TCD probe into the moving part and control it with the joystick.
+
+![Alt text](C:\Users\Mp\Downloads\motortcd.jpg "Final Build")
 
 
 
