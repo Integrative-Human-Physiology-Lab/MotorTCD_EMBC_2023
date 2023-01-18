@@ -29,7 +29,7 @@ Connect the Arduino Uno to your computer and upload the [Arduino Code](https://g
 **5. Run the test**
 Clamp the TCD probe into the moving part and control it with the joystick.
 
-![Alt text](C:\Users\Mp\Downloads\motortcd.jpg "Final Build")
+![motortcd](https://user-images.githubusercontent.com/104403515/213111627-7f3d124f-dd64-400d-8a2e-32c50bc2553b.jpg)
 
 
 
