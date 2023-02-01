@@ -1,7 +1,7 @@
 # MOTORTCD
 
-The motorTCD project enables the Transcranial doppler probe to be moved with the help of joystick remotely. It enables the correct positioning of probe once again even if the signal is lost due to movements or slight jerk.
-The project runs on Arduino Uno and controlled by joystick module available for the Arduino Uno.
+The motorTCD project enables the Transcranial doppler probe to be moved with the help of terminal commands. It enables the correct positioning of probe once again even if the signal is lost due to movements or slight jerk.
+The project runs on Arduino Uno.
 
 # **GETTING STARTED**
 **1. Order the Off-The-Shelf Components:**
@@ -24,14 +24,4 @@ The [Assembly Guide](https://github.com/Pradeshi/MotorTCD-1/blob/main/Documentat
 This step requires you to have all the components as listed in the Bill of Materials for our project.
 
 **4. Upload the code:**
-Connect the Arduino Uno to your computer and upload the [Arduino Code](https://github.com/Pradeshi/MotorTCD-1/blob/main/Arduino%20Code/motortcd.ino) available in our github.
-
-**5. Run the test**
-Clamp the TCD probe into the moving part and control it with the joystick.
-
-![motortcd](https://user-images.githubusercontent.com/104403515/213111627-7f3d124f-dd64-400d-8a2e-32c50bc2553b.jpg)
-
-
-
-
-
+Connect the Arduino Uno to your computer and upload the Arduino Code.
