@@ -14,7 +14,7 @@ The project runs on Arduino Uno.
 Print the STL file as shown in the [Print_Files](https://github.com/Integrative-Human-Physiology-Lab/MotorTCD_EMBC_2023/tree/main/Print_Files).
 
 **3. Start the Assembly:**
-The [Assembly Guide](https://github.com/Pradeshi/MotorTCD-1/blob/main/Documentation/assembly%20guide.pdf) shows you step by step process to assemble and wire the entire project with pictures. The entire assembly process is break down into following steps:
+The [Assembly Guide](https://github.com/Integrative-Human-Physiology-Lab/MotorTCD_EMBC_2023/blob/main/Documentation/assembly%20guide.pdf) shows you step by step process to assemble and wire the entire project with pictures. The entire assembly process is break down into following steps:
 1. Assembly of 3D-printed components
 2. Assembly of power components
 3. Assembly of motor components
