@@ -6,7 +6,8 @@ The project runs on Arduino Uno.
 # **GETTING STARTED**
 **1. Order the Off-The-Shelf Components:**
 
-  Order the components as listed in the [Bill of Material](https://github.com/Pradeshi/MotorTCD-1/blob/main/Documentation/BOM.xlsx) for the project.
+  Order the components as listed in the [Bill of Material](https://github.com/Integrative-Human-Physiology-Lab/MotorTCD_EMBC_2023/blob/main/Documentation/BOM.xlsx) for the project.
+
 
 **2. Print the 3D-printable files:**
 
