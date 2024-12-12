@@ -26,3 +26,9 @@ This step requires you to have all the components as listed in the Bill of Mater
 
 **4. Upload the code:**
 Connect the Arduino Uno to your computer and upload the Arduino Code.
+
+# **Positioning reference: **
+
+Whenever a signal is locked in. It is always advised that the harness for the TCD probe be placed in the center of the clamp boundaries. Repeated Experimentation has shown that due to the weight of the system, when the subject (individual being experimented on) is made to move in any direction, the TCD probe might be displaced by a very amount in the direction opposite to the moving direction of the subject. As this change in position is very miniscule, putting the probe in the center allows for the position to be adjusted in any direction. 
+
+It is also advised that the person who operates the joystick familiarize themselves with the speed and movement of the clamp for better and more efficient reading. 
